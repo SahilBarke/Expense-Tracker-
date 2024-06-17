@@ -1,0 +1,4 @@
+pandas ---> for data manipulation
+matplotlib or seaborn ---> for visualization
+sqlite3  or any other ---> data storing in db
+argparse

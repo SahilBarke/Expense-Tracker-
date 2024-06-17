@@ -1,0 +1,7 @@
+structure 
+├── main.py
+├── expenses.py
+├── reports.py
+├── database.py
+├── utils.py
+├── requirements.txt
